@@ -1,7 +1,7 @@
 
 module.exports = {
-  SESSION_ID: "",  // add your Session Id here
-  OWNER_NUMBER: "", // put your phone number here
+  SESSION_ID: "",  // add KnightBot!H4sIAAAAAAAAA5VUXbOiOBD9L3nVuvKlIlW3alVAEAUFEXVrHiIEjCIfSUBxyv8+xf2YmYfd2btvoUm6T59zur+DLMcUWagByndQEFxDhtojawoEFDCp4hgR0AURZBAogFvFWqNFrJCP0wPjF0cRzxMebRPHDrYhWgbObD92eTze+a/g2QVFdUxx+IeEt1KyL4Xb56PLhi2DdLNQpXkn8tWsl5X6uHBEuqjCx95LLq/g2WaEmOAs0YoTuiICUws1K4jJ1+A7dmlO/dHslu7RQj/feWYdkSo7QS90BqnbsSc7fa1bx+1M+xp8sTZNg0/XnCzASn9ErgW3vnFN9E2yy4xRRFN/QTtT2Fkv3+FTnGQoMiOUMcyaL/MeWOJl4Jed0zwdJbGqabHuTtOHKcw46XS53vTZ40prqAWi+TXg+FDN96rRqVzBrdeNbg93zaUxZD+hXjCvj8LCQGpgnjlO+h34inx65fJ/eLfmK9rzjqXTlPBBWf/qotV2JOalNsjzg7xjck/lAi3Y8fIXeS+nc8NRqagfJHsb23XSbHsHm2yaRPLu0VbE7qM584NMC3/Bh6wif0K5t+7WRnpcBmItNU6UOpIz2UaV1wQaP6OGPa90m0uM7BL36RwXxcoIIpaT3intG5uLVvLsThf+cM82UGUpN+pf9+o0eX3r6IIaMwIK/+wCghJMGYEM51kbE4QugFHtoZAg9sYuoIe9jSYV1dbrPkV1Yty1x+qQ9taTcCXWj8Be2zt3tdo5sv8KuqAgeYgoRZGBKctJs0SUwgRRoPz9rQsydGfvurXVRL4LYkwo87OqSHMYfYr6+ROGYV5lzGuycNoeEAEK9yuMGMNZQlsaqwyS8IRrND1BRoESw5Sinw0igiKgMFKhn0M7zaOWd0Mfq31rsQFdcH3TA0dAAUJfGvZlbiT2JU7h/6IvtzYrLIqXDDHQBRlsL7fa4Sx5eXkBXZB+PJSHfW7EycOhIInt2zb+/Am5rRAhBnFKgQKmSzQoXLouba/T3Pb7sTceW+NxS+Nni59WeddiWbq7Keq79LQ4E9E0ggH2gsrJt05aSPHMLFN5eSM66ujrf0oCFFAuUjEzl1WQicLi0puZ7mqzHgrM0xZxsDTPdi7O9KjYFauZsIoJhPNZ3jsPrnpVYtrAQV8WetqMVJNiqxL/HLhCaU5vr221CNU4RL8Xk50s6WgTvVFjLQu5RK5cZMy9WzO+hXz9GPoLKjWGM8c9rTiHLLsX6wHanOyQzmZaEmzj+VDg9bjjTXqS30ntxPOgens38dsQpR/LC7/5qxWv/YwxetsFHyr9l5jvuFvLcc/ubyk+lsu/DOhkY122t6zyj6YnDUbNhK/yS0rOpb4pIDLu2CpidWndd/XJB8/nty4oUsjinFzbmboeIegCkletgc0szv9QaTpOzHGSeG3XKaRs/GsoNviKKIPXAij8cCCPhP5Q4t9vrUheGJCegAJ4SzoZEnj+AMSXXKNhBwAAyour Session Id here
+  OWNER_NUMBER: "", // put +254758093540your phone number here
   PREFIX: ".", // prefix (e.g., ., /, !, *)
   TIMEZONE: "Africa/Kampala" //put your country timeZone....leave blank if u don't know.
 };
